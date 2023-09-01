@@ -1,0 +1,5 @@
+file ini dalah file yang dibuat didalam komputer yang kemudian akan diupload kedalam github 
+menggunakan perintah :
+git add -> unutk menambahkan data atau file
+git comit -m ->untuk menambhakan tanda atu komentar
+git push -u origin master -> untuk memastikan file masuk ke repo
